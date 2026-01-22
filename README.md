@@ -1,43 +1,98 @@
-# Chirpy Starter
+# 👋 Hi, I'm Muhamad Syihabudin
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+**Senior Backend Engineer**  
+📍 Bogor, Indonesia  
+📧 syihabudin@hotmail.co.id  
+🔗 [LinkedIn](https://linkedin.com/in/muhamadsyihabudin) | [Portfolio](https://msyihabudin.github.io)
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+---
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+## 🚀 About Me
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+Backend Engineer with **6+ years of experience** designing and scaling **high-availability, high-throughput systems** for fintech platforms serving **200M+ users**.
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+I specialize in **Go**, **Java (Spring Boot, SOFAStack)**, and **microservices architecture**, with a strong focus on **reliability, performance, and clean code**. I enjoy solving complex system problems and collaborating closely with product, infrastructure, and business teams to deliver impactful solutions.
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+---
 
-## Usage
+## 🧑‍💻 Professional Experience
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+### **Senior Software Engineer**  
+**DANA Indonesia**  
+*Nov 2019 – Present*
 
-## Contributing
+- Designed and optimized mission-critical backend services supporting **200M+ users** with **99.99% uptime**
+- Built scalable microservices using **Go** and **Java**, improving system throughput by **15–30%**
+- Led development of a **high-availability satellite system**, increasing uptime from **99.5% → 99.98%**
+- Supported **GCP → Alibaba Cloud migration**, reducing latency and lowering infrastructure costs by **25–40%**
+- Contributed to **Priority Transfer** and **VAS products** (Loyalty, Investment), handling millions of monthly transactions
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+### **Full Stack Developer**  
+**Akar Prima Nusantara**  
+*Jan 2016 – Sep 2018*
 
-## License
+- Built and maintained **5+ web applications** for workflow automation and document management
+- Delivered stable systems using **Laravel**, **IBM Domino**, and **C# (DotNetNuke)**, reducing user issues by **20–30%**
+- Translated business requirements into scalable technical solutions, reducing development rework by **15–25%**
+- Digitized manual approval workflows, cutting processing time from **days to hours**
 
-This work is published under [MIT][mit] License.
+---
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+## 🎓 Education
+
+**IPB University**  
+Bachelor of Science in **Computer Science**  
+*2019*
+
+---
+
+## 🛠️ Core Skills
+
+### Languages & Frameworks
+- Go, Java (Spring Boot, SOFAStack), Laravel
+
+### Architecture & Systems
+- Microservices
+- REST APIs
+- Distributed Systems
+- High-Availability Systems
+
+### Databases & Storage
+- OceanBase
+- PostgreSQL
+- MySQL
+- Redis
+- Elasticsearch
+
+### Engineering Practices
+- Clean Code
+- Object-Oriented Programming (OOP)
+- Design Patterns
+- Test-Driven Development (TDD)
+- CI/CD
+- Debugging & Performance Optimization
+
+### Ways of Working
+- Agile / Scrum
+- Observability & Monitoring
+- Cross-functional Collaboration
+
+---
+
+## 📜 Certifications & Training
+
+- Web Design Training – **WebHozz** (2014)
+- Java & Clean Code Training – **G2Academy** (2019)
+
+---
+
+## 📫 Get in Touch
+
+I'm always open to discussing backend architecture, distributed systems, or interesting engineering challenges.
+
+👉 **LinkedIn:** [linkedin.com/in/muhamadsyihabudin](https://linkedin.com/in/muhamadsyihabudin)  
+👉 **Email:** syihabudin@hotmail.co.id
+
+---
+
+⭐ *Thanks for visiting my page!*
