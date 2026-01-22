@@ -4,9 +4,7 @@ icon: fas fa-user
 order: 1
 ---
 
-## Muhamad Syihabudin
-
-Backend Engineer with **6+ years of experience** designing and scaling **high-availability, high-throughput systems** for fintech platforms serving **200M+ users**.
+Software Engineer with **6+ years of experience** designing and scaling **high-availability, high-throughput systems** for fintech platforms serving **200M+ users**.
 
 I specialize in **Go**, **Java (Spring Boot, SOFAStack)**, and **microservices architecture**, with a strong focus on **reliability, performance, and clean code**. I enjoy solving complex system problems and collaborating closely with product, infrastructure, and business teams to deliver impactful solutions.
 
