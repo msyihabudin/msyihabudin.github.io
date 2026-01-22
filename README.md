@@ -1,37 +1,100 @@
-## Welcome to GitHub Pages
+# 👋 Hi, I'm Muhamad Syihabudin
 
-You can use the [editor on GitHub](https://github.com/msyihabudin/syihab.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Senior Backend Engineer**  
+📍 Bogor, Indonesia  
+📧 syihabudin@hotmail.co.id  
+🔗 [LinkedIn](https://linkedin.com/in/muhamadsyihabudin)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## 🚀 About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Backend Engineer with **6+ years of experience** designing and scaling **high-availability, high-throughput systems** for fintech platforms serving **200M+ users**.
 
-```markdown
-Syntax highlighted code block
+I specialize in **Go**, **Java (Spring Boot, SOFAStack)**, and **microservices architecture**, with a strong focus on **reliability, performance, and clean code**. I enjoy solving complex system problems and collaborating closely with product, infrastructure, and business teams to deliver impactful solutions.
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+## 🧑‍💻 Professional Experience
 
-1. Numbered
-2. List
+### **Senior Software Engineer**  
+**DANA Indonesia**  
+*Nov 2019 – Present*
 
-**Bold** and _Italic_ and `Code` text
+- Designed and optimized mission-critical backend services supporting **200M+ users** with **99.99% uptime**
+- Built scalable microservices using **Go** and **Java**, improving system throughput by **15–30%**
+- Led development of a **high-availability satellite system**, increasing uptime from **99.5% → 99.98%**
+- Supported **GCP → Alibaba Cloud migration**, reducing latency and lowering infrastructure costs by **25–40%**
+- Contributed to **Priority Transfer** and **VAS products** (Loyalty, Investment), handling millions of monthly transactions
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### **Full Stack Developer**  
+**Akar Prima Nusantara**  
+*Jan 2016 – Sep 2018*
 
-### Jekyll Themes
+- Built and maintained **5+ web applications** for workflow automation and document management
+- Delivered stable systems using **Laravel**, **IBM Domino**, and **C# (DotNetNuke)**, reducing user issues by **20–30%**
+- Translated business requirements into scalable technical solutions, reducing development rework by **15–25%**
+- Digitized manual approval workflows, cutting processing time from **days to hours**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/syhb59/syihab.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+## 🎓 Education
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**IPB University**  
+Bachelor of Science in **Computer Science**  
+*2019*
+
+---
+
+## 🛠️ Core Skills
+
+### Languages & Frameworks
+- Go, Java (Spring Boot, SOFAStack), Laravel
+
+### Architecture & Systems
+- Microservices
+- REST APIs
+- Distributed Systems
+- High-Availability Systems
+
+### Databases & Storage
+- OceanBase
+- PostgreSQL
+- MySQL
+- Redis
+- Elasticsearch
+
+### Engineering Practices
+- Clean Code
+- Object-Oriented Programming (OOP)
+- Design Patterns
+- Test-Driven Development (TDD)
+- CI/CD
+- Debugging & Performance Optimization
+
+### Ways of Working
+- Agile / Scrum
+- Observability & Monitoring
+- Cross-functional Collaboration
+
+---
+
+## 📜 Certifications & Training
+
+- Web Design Training – **WebHozz** (2014)
+- Java & Clean Code Training – **G2Academy** (2019)
+
+---
+
+## 📫 Get in Touch
+
+I'm always open to discussing backend architecture, distributed systems, or interesting engineering challenges.
+
+👉 **LinkedIn:** [linkedin.com/in/muhamadsyihabudin](https://linkedin.com/in/muhamadsyihabudin)  
+👉 **Email:** syihabudin@hotmail.co.id
+
+---
+
+⭐ *Thanks for visiting my page!*
