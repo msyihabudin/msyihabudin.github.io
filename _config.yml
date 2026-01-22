@@ -16,7 +16,7 @@ timezone:
 
 title: Muhamad Syihabudin # the main title
 
-tagline: Senior Backend Engineer # it will display as the subtitle
+tagline: Software Engineer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Backend Engineer specializing in Go, Java, and microservices architecture. 6+ years experience building high-availability systems for fintech platforms.
