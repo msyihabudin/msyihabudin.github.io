@@ -2,6 +2,16 @@
   value: Muhamad Syihabudin
 - key: Title
   value: Software Engineer
+- key: Description
+  value:
+    - Backend Engineer with 6+ years of experience designing and scaling high-availability, 
+    - highthroughput systems for fintech platforms serving over 200 million users. 
+    - Specialized in Go, Java (Spring Boot, SOFAStack), microservices, 
+    - and distributed systems, with a track record of delivering resilient 
+    - and efficient services in demanding production environments. 
+    - Demonstrates strong capabilities in system optimization, clean-code engineering, 
+    - and cross-functional collaboration to drive reliable solutions aligned with business 
+    - and product goals.
 - key: Contact
   value:
     - key: Location
@@ -13,9 +23,7 @@
       value: +62 821 2318 7204
 - key: Profiles
   value:
-    - key: LinkedIn
-      value: linkedin.com/in/muhamadsyihabudin
+    - value: LinkedIn
       url: https://linkedin.com/in/muhamadsyihabudin
-    - key: GitHub
-      value: github.com/msyihabudin
+    - value: GitHub
       url: https://github.com/msyihabudin
