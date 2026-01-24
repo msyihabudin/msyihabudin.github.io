@@ -2,89 +2,20 @@
   value: Muhamad Syihabudin
 - key: Title
   value: Software Engineer
-- key: Location
-  value: Bogor, Indonesia
-- key: Email
-  value: syihabudin@hotmail.co.id
-  url: "mailto:syihabudin@hotmail.co.id"
-- key: LinkedIn
-  value: linkedin.com/in/muhamadsyihabudin
-  url: https://linkedin.com/in/muhamadsyihabudin
-- key: Portfolio
-  value: msyihabudin.github.io
-  url: https://msyihabudin.github.io
-- key: About
-  value: |
-    Backend Engineer with 6+ years of experience designing and scaling high-availability, high-throughput systems for fintech platforms serving 200M+ users.
-
-    I specialize in Go, Java (Spring Boot, SOFAStack), and microservices architecture, with a strong focus on reliability, performance, and clean code. I enjoy solving complex system problems and collaborating closely with product, infrastructure, and business teams to deliver impactful solutions.
-- key: Experience
+- key: Contact
   value:
-    - key: Senior Software Engineer
-      value: DANA Indonesia
-      period: Nov 2019 – Present
-      achievements:
-        - Designed and optimized mission-critical backend services supporting 200M+ users with 99.99% uptime
-        - Built scalable microservices using Go and Java, improving system throughput by 15–30%
-        - Led development of a high-availability satellite system, increasing uptime from 99.5% → 99.98%
-        - Supported GCP → Alibaba Cloud migration, reducing latency and lowering infrastructure costs by 25–40%
-        - Contributed to Priority Transfer and VAS products (Loyalty, Investment), handling millions of monthly transactions
-    - key: Full Stack Developer
-      value: Akar Prima Nusantara
-      period: Jan 2016 – Sep 2018
-      achievements:
-        - Built and maintained 5+ web applications for workflow automation and document management
-        - Delivered stable systems using Laravel, IBM Domino, and C# (DotNetNuke), reducing user issues by 20–30%
-        - Translated business requirements into scalable technical solutions, reducing development rework by 15–25%
-        - Digitized manual approval workflows, cutting processing time from days to hours
-- key: Education
+    - key: Location
+      value: "Bogor, Indonesia"
+    - key: Email
+      value: syihabudin@hotmail.co.id
+      url: "mailto:syihabudin@hotmail.co.id"
+    - key: Phone
+      value: +62 821 2318 7204
+- key: Profiles
   value:
-    - key: Bachelor of Science in Computer Science
-      value: IPB University
-      year: 2019
-- key: Skills
-  value:
-    - key: Languages & Frameworks
-      value:
-        - Go
-        - Java (Spring Boot, SOFAStack)
-        - Laravel
-    - key: Architecture & Systems
-      value:
-        - Microservices
-        - REST APIs
-        - Distributed Systems
-        - High-Availability Systems
-    - key: Databases & Storage
-      value:
-        - OceanBase
-        - PostgreSQL
-        - MySQL
-        - Redis
-        - Elasticsearch
-    - key: Engineering Practices
-      value:
-        - Clean Code
-        - Object-Oriented Programming (OOP)
-        - Design Patterns
-        - Test-Driven Development (TDD)
-        - CI/CD
-        - Debugging & Performance Optimization
-    - key: Ways of Working
-      value:
-        - Agile / Scrum
-        - Observability & Monitoring
-        - Cross-functional Collaboration
-- key: Certifications
-  value:
-    - Web Design Training – WebHozz (2014)
-    - Java & Clean Code Training – G2Academy (2019)
-- key: Contact Message
-  value: |
-    I'm always open to discussing backend architecture, distributed systems, or interesting engineering challenges.
-
-    👉 LinkedIn: linkedin.com/in/muhamadsyihabudin
-    👉 Email: syihabudin@hotmail.co.id
-
-    ⭐ Thanks for visiting my page!
-
+    - key: LinkedIn
+      value: linkedin.com/in/muhamadsyihabudin
+      url: https://linkedin.com/in/muhamadsyihabudin
+    - key: GitHub
+      value: github.com/msyihabudin
+      url: https://github.com/msyihabudin
