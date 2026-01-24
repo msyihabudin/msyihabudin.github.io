@@ -89,6 +89,10 @@ layout: default
     {{ quote_key }}<span class="key">{{ pair.key }}</span>{{ quote_key }}:
     {%- if pair.key == "About" -%}
     {{ quote_value }}<div class="marquee"><span class="value">{{ pair.value }}</span></div>{{ quote_value }}
+    {%- elsif pair.key == "about" -%}
+    {{ quote_value }}<div class="marquee"><span class="value">{{ pair.value }}</span></div>{{ quote_value }}
+    {%- elsif pair.key == "description" -%}
+    {{ quote_value }}<div class="marquee"><span class="value">{{ pair.value }}</span></div>{{ quote_value }}
     {%- elsif pair.key == "Contact Message" -%}
     {{ quote_value }}<div class="marquee"><span class="value">{{ pair.value }}</span></div>{{ quote_value }}
     {%- else -%}
