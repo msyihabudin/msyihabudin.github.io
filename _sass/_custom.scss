@@ -1,0 +1,46 @@
+/* Custom Marquee Effect */
+.marquee {
+  white-space: nowrap;
+  overflow: hidden;
+  position: relative;
+}
+
+.marquee span {
+  display: inline-block;
+  animation: marquee 10s linear infinite;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+/* For looping descriptions one by one */
+.description-loop {
+  position: relative;
+  overflow: hidden;
+  height: 1.5em; /* Adjust based on line height */
+}
+
+.description-loop .desc-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  opacity: 0;
+  animation: fade-loop 12s infinite; /* Adjust duration for loop speed */
+}
+
+.description-loop .desc-item:nth-child(1) { animation-delay: 0s; }
+.description-loop .desc-item:nth-child(2) { animation-delay: 3s; } /* Adjust delays */
+.description-loop .desc-item:nth-child(3) { animation-delay: 6s; }
+.description-loop .desc-item:nth-child(4) { animation-delay: 9s; }
+
+@keyframes fade-loop {
+  0%, 20% { opacity: 1; }
+  25%, 100% { opacity: 0; }
+}

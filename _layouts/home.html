@@ -87,7 +87,13 @@ layout: default
     {{ quote_value }}<a class="value" href="{{ pair.url | relative_url }}" target="{{ tab }}">{{ pair.value }}</a>{{ quote_value }}
     {%- else -%}
     {{ quote_key }}<span class="key">{{ pair.key }}</span>{{ quote_key }}:
+    {%- if pair.key == "About" -%}
+    {{ quote_value }}<div class="marquee"><span class="value">{{ pair.value }}</span></div>{{ quote_value }}
+    {%- elsif pair.key == "Contact Message" -%}
+    {{ quote_value }}<div class="marquee"><span class="value">{{ pair.value }}</span></div>{{ quote_value }}
+    {%- else -%}
     {{ quote_value }}<span class="value">{{ pair.value }}</span>{{ quote_value }}
+    {%- endif -%}
     {%- endif -%}
     {%- unless forloop.last -%}
     {{ comma }}
