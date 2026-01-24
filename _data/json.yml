@@ -5,13 +5,12 @@
 - key: About
   value:
     - Software Engineer with 6+ years of experience designing and scaling high-availability, 
-    - highthroughput systems for fintech platforms serving over 200 million users. 
-    - Specialized in Go, Java (Spring Boot, SOFAStack), microservices, 
-    - and distributed systems, with a track record of delivering resilient 
-    - and efficient services in demanding production environments. 
-    - Demonstrates strong capabilities in system optimization, clean-code engineering, 
-    - and cross-functional collaboration to drive reliable solutions aligned with business 
-    - and product goals.
+    - highthroughput systems for fintech platforms serving over 200 million users. Specialized 
+    - in Go, Java (Spring Boot, SOFAStack), microservices, and distributed systems, with a
+    - track record of delivering resilient and efficient services in demanding production
+    - environments. Demonstrates strong capabilities in system optimization, clean-code
+    - engineering, and cross-functional collaboration to drive reliable solutions aligned with
+    - business and product goals.
 - key: Contact
   value:
     - key: Location
